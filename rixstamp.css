@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'RixStampOriginal';
+  src: url('fonts/RixStampOriginal.woff2') format('woff2'),
+    url('fonts/RixStampOriginal.woff') format('woff'),
+    url('fonts/RixStampOriginal.eot') format('embedded-opentype'),
+    url('fonts/RixStampOriginal.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'RixStampPro';
+  src: url('fonts/RixStampPro.woff2') format('woff2'),
+    url('fonts/RixStampPro.woff') format('woff'),
+    url('fonts/RixStampPro.eot') format('embedded-opentype'),
+    url('fonts/RixStampPro.otf') format('opentype');
+}
