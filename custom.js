@@ -92,7 +92,7 @@ const COFFEEDOGAM = {
       leftContent.innerHTML = '대구광역시 중구 봉산동<br>135-14, 1-2층'
       leftDiv.appendChild(leftContent)
       const leftTime = document.createElement('p')
-      leftTime.innerHTML = '쇼룸 오픈시간<br>수-토요일<br>12AM - 6PM'
+      leftTime.innerHTML = '쇼룸 오픈시간<br>화-토요일<br>1PM - 6PM'
       leftDiv.appendChild(leftTime)
       const rightDiv = document.createElement('div')
       extraWrapper.appendChild(rightDiv)
