@@ -89,10 +89,10 @@ const COFFEEDOGAM = {
       leftTitle.innerText = '블랙로드커피'
       leftDiv.appendChild(leftTitle)
       const leftContent = document.createElement('p')
-      leftContent.innerHTML = '대구광역시 중구 봉산동<br>135-14, 1-2층'
+      leftContent.innerHTML = '대구점<br>더현대대구 B1<br>달구벌대로 2077<br>10:30 - 20:30'
       leftDiv.appendChild(leftContent)
       const leftTime = document.createElement('p')
-      leftTime.innerHTML = '쇼룸 오픈시간<br>화-토요일<br>1PM - 6PM'
+      leftTime.innerHTML = '성수점<br>서울숲2길 19-18 2층<br>11:00 - 18:30'
       leftDiv.appendChild(leftTime)
       const rightDiv = document.createElement('div')
       extraWrapper.appendChild(rightDiv)
@@ -104,7 +104,7 @@ const COFFEEDOGAM = {
       rightDiv.appendChild(rightContent)
       const rightTime = document.createElement('p')
       rightTime.innerHTML =
-        '고객센터 10AM - 5PM<br>Lunch 1PM - 2PM<br>주말 및 공휴일 휴무'
+        '고객센터 10:00 - 17:00<br>Lunch 13:00 - 14:00<br>주말 및 공휴일 휴무'
       rightDiv.appendChild(rightTime)
       const socialLinkWrapper = blockWrap.querySelector('div.foot-sociallink')
       if (!socialLinkWrapper) return
