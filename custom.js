@@ -149,10 +149,10 @@ const COFFEEDOGAM = {
       leftTitle.innerText = '블랙로드커피'
       leftDiv.appendChild(leftTitle)
       const leftContent = document.createElement('p')
-      leftContent.innerHTML = '대구광역시 중구 봉산동<br>135-14, 1-2층'
+      leftContent.innerHTML = '대구점<br>더현대대구 B1<br>달구벌대로 2077<br>10:30 - 20:30'
       leftDiv.appendChild(leftContent)
       const leftTime = document.createElement('p')
-      leftTime.innerHTML = '쇼룸 오픈시간<br>화-토요일<br>1PM - 6PM'
+      leftTime.innerHTML = '성수점<br>서울숲2길 19-18 2층<br>11:00 - 18:30'
       leftDiv.appendChild(leftTime)
       const rightDiv = document.createElement('div')
       extraWrapper.appendChild(rightDiv)
@@ -160,7 +160,7 @@ const COFFEEDOGAM = {
       rightTitle.innerText = 'Connect'
       rightDiv.appendChild(rightTitle)
       const rightContent = document.createElement('p')
-      rightContent.innerHTML = 'cuppingpost@naver.com<br>01041508627'
+      rightContent.innerHTML = 'cuppingpost@naver.com<br>01022412442<br>(전화상담x, 문자로 부탁드립니다.)'
       rightDiv.appendChild(rightContent)
       const rightTime = document.createElement('p')
       rightTime.innerHTML =
