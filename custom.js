@@ -100,7 +100,7 @@ const COFFEEDOGAM = {
       rightTitle.innerText = 'Connect'
       rightDiv.appendChild(rightTitle)
       const rightContent = document.createElement('p')
-      rightContent.innerHTML = 'cuppingpost@naver.com<br>01041508627'
+      rightContent.innerHTML = 'cuppingpost@naver.com<br>01022412442<br>(전화상담x, 문자로 부탁드립니다.)'
       rightDiv.appendChild(rightContent)
       const rightTime = document.createElement('p')
       rightTime.innerHTML =
