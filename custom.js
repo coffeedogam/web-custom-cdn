@@ -88,11 +88,8 @@ const COFFEEDOGAM = {
       const leftTitle = document.createElement('p')
       leftTitle.innerText = '블랙로드커피'
       leftDiv.appendChild(leftTitle)
-      const leftContent = document.createElement('p')
-      leftContent.innerHTML = '대구점<br>더현대대구 B1<br>달구벌대로 2077<br>10:30 - 20:30'
-      leftDiv.appendChild(leftContent)
       const leftTime = document.createElement('p')
-      leftTime.innerHTML = '성수점<br>서울숲2길 19-18 2층<br>11:00 - 18:30'
+      leftTime.innerHTML = '성수점<br>서울숲2길 19-18 2층<br>예약제'
       leftDiv.appendChild(leftTime)
       const rightDiv = document.createElement('div')
       extraWrapper.appendChild(rightDiv)
@@ -148,11 +145,8 @@ const COFFEEDOGAM = {
       const leftTitle = document.createElement('p')
       leftTitle.innerText = '블랙로드커피'
       leftDiv.appendChild(leftTitle)
-      const leftContent = document.createElement('p')
-      leftContent.innerHTML = '대구점<br>더현대대구 B1<br>달구벌대로 2077<br>10:30 - 20:30'
-      leftDiv.appendChild(leftContent)
       const leftTime = document.createElement('p')
-      leftTime.innerHTML = '성수점<br>서울숲2길 19-18 2층<br>11:00 - 18:30'
+      leftTime.innerHTML = '성수점<br>서울숲2길 19-18 2층<br>예약제 운영'
       leftDiv.appendChild(leftTime)
       const rightDiv = document.createElement('div')
       extraWrapper.appendChild(rightDiv)
